@@ -1,0 +1,3 @@
+Looks like the nodes can transmit to specific ID Addresses and will sent to all nodes in range to make it to desired node.
+
+page 35 describes how the topology works. 
